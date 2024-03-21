@@ -47,13 +47,13 @@ The relevant codes for "**GANI: Global Attacks on Graph Neural Networks via Impe
   If you find this work helpful, please cite our paper, Thank you.
 
   ```
- @article{fang2024gani,
-  title={Gani: global attacks on graph neural networks via imperceptible node injections},
-  author={Fang, Junyuan and Wen, Haixian and Wu, Jiajing and Xuan, Qi and Zheng, Zibin and Tse, Chi K},
-  journal={IEEE Transactions on Computational Social Systems},
-  year={2024},
-  publisher={IEEE}
-}
+   @article{fang2024gani,
+      title={Gani: global attacks on graph neural networks via imperceptible node injections},
+      author={Fang, Junyuan and Wen, Haixian and Wu, Jiajing and Xuan, Qi and Zheng, Zibin and Tse, Chi K},
+      journal={IEEE Transactions on Computational Social Systems},
+      year={2024},
+      publisher={IEEE}
+    }
   ```
 
   
